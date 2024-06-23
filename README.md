@@ -1,5 +1,6 @@
 <h2>Solution Idea 🧠</h2>
-<h4>The Commits can be pushed into an array of objects using "AddCommit" Method <br>
+<h4>
+The Commits can be pushed into an array of objects using "AddCommit" Method <br>
 
 Then the array is pushed into JSON File using "SaveToFile" Method <br>
 

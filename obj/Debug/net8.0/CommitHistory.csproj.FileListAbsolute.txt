@@ -1,0 +1,14 @@
+C:\Users\imrga\CommitHistory\obj\Debug\net8.0\CommitHistory.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\imrga\CommitHistory\obj\Debug\net8.0\CommitHistory.AssemblyInfoInputs.cache
+C:\Users\imrga\CommitHistory\obj\Debug\net8.0\CommitHistory.AssemblyInfo.cs
+C:\Users\imrga\CommitHistory\obj\Debug\net8.0\CommitHistory.csproj.CoreCompileInputs.cache
+C:\Users\imrga\CommitHistory\bin\Debug\net8.0\CommitHistory.exe
+C:\Users\imrga\CommitHistory\bin\Debug\net8.0\CommitHistory.deps.json
+C:\Users\imrga\CommitHistory\bin\Debug\net8.0\CommitHistory.runtimeconfig.json
+C:\Users\imrga\CommitHistory\bin\Debug\net8.0\CommitHistory.dll
+C:\Users\imrga\CommitHistory\bin\Debug\net8.0\CommitHistory.pdb
+C:\Users\imrga\CommitHistory\obj\Debug\net8.0\CommitHistory.dll
+C:\Users\imrga\CommitHistory\obj\Debug\net8.0\refint\CommitHistory.dll
+C:\Users\imrga\CommitHistory\obj\Debug\net8.0\CommitHistory.pdb
+C:\Users\imrga\CommitHistory\obj\Debug\net8.0\CommitHistory.genruntimeconfig.cache
+C:\Users\imrga\CommitHistory\obj\Debug\net8.0\ref\CommitHistory.dll
